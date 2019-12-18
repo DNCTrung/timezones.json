@@ -886,6 +886,16 @@
     ]
   },
   {
+    "value": "Russian Standard Time",
+    "abbr": "RST",
+    "offset": 3,
+    "isdst": true,
+    "text": "(UTC+03:00) Moscow, St. Petersburg",
+    "utc": [
+      "Europe/Moscow"
+    ]
+  },
+  {
     "value": "Central European Standard Time",
     "abbr": "CEDT",
     "offset": 2,
@@ -1276,6 +1286,16 @@
     ]
   },
   {
+    "value": "Russia Time Zone 3",
+    "abbr": "RTZ3",
+    "offset": 4,
+    "isdst": false,
+    "text": "(UTC+04:00) Izhevsk, Samara",
+    "utc": [
+      "Europe/Samara"
+    ]
+  },
+  {
     "value": "Saratov Standard Time",
     "abbr": "MSK+01",
     "offset": 4,
@@ -1498,6 +1518,16 @@
   },
   {
     "value": "Russia TZ 4 Standard Time",
+    "abbr": "MSK+02",
+    "offset": 5,
+    "isdst": false,
+    "text": "(UTC+05:00) Ekaterinburg",
+    "utc": [
+      "Asia/Yekaterinburg"
+    ]
+  },
+  {
+    "value": "Ekaterinburg Standard Time",
     "abbr": "MSK+02",
     "offset": 5,
     "isdst": false,
